@@ -1,0 +1,8 @@
+# encoding: utf-8
+
+ru:
+  js:
+    login:
+      vkontakte:
+        title: "через VK"
+        message: "вход через ВКонтакте (убедитесь, что всплывающие окна разрешены)"

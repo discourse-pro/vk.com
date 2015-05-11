@@ -1,0 +1,6 @@
+# encoding: utf-8
+
+en:
+  site_settings:
+    vk_client_id: "Application ID"
+    vk_client_secret: "Secure key"

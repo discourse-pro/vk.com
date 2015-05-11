@@ -1,0 +1,6 @@
+# encoding: utf-8
+
+ru:
+  site_settings:
+    vk_client_id: "ID приложения"
+    vk_client_secret: "Защищённый ключ"
