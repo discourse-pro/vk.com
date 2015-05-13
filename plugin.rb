@@ -1,7 +1,7 @@
 # name: VK.COM authentication
 # about: http://discourse-forum.ru/t/topic/34
 # version: 1.0.0
-# author: Dmitry Fedyuk
+# authors: Dmitry Fedyuk
 
 gem 'omniauth-vkontakte', '1.3.3'
 
