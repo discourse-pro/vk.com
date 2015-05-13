@@ -1,8 +1,13 @@
 # encoding: utf-8
+#
+# Российская редакция Discourse: http://discourse-forum.ru
+# Плагин для авторизации ВКонтакте (vk.com)
+# http://discourse-forum.ru/t/topic/34
+# Дмитрий Федюк
 
 ru:
   js:
     login:
       vkontakte:
-        title: "через VK"
+        title: "через ВКонтакте"
         message: "вход через ВКонтакте (убедитесь, что всплывающие окна разрешены)"
