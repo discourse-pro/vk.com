@@ -3,7 +3,7 @@
 # version: 1.0.0
 # authors: Dmitry Fedyuk
 
-gem 'omniauth-vkontakte', '1.3.3'
+gem 'omniauth-vkontakte', '1.4.0'
 
 class VkAuthenticator < ::Auth::Authenticator
 
